@@ -1,6 +1,9 @@
 # Billions Verified Agent Identity – Setup Guide
 
-This guide explains how to install and run the **verified-agent-identity** scripts and link an agent DID with a human identity on the **Billions Network**.
+
+This guide explains how to set up **Verified Agent Identity on Ubuntu / WSL (Ubuntu environment)**.
+
+This guide explains how to install and run the verified-agent-identity scripts and link an agent DID with a human identity on the Billions Network.
 
 ---
 
